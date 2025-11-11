@@ -1,2 +1,2 @@
 # webpages
-E 115 html Assignments
+E 115 HTML Assignments
